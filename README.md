@@ -32,15 +32,15 @@ markdown
 4. 링크(Link)
 [링크 텍스트](URL) 형태로 링크를 삽입합니다.
 markdown
-복사
-[Google](https://www.google.com)
-
+---
+(https://www.google.com)
+---
 5. 이미지(Image)
 ![이미지 설명](이미지 URL) 형태로 이미지를 삽입합니다.
 markdown
-복사
-![Example Image](https://example.com/image.jpg)
-
+---
+(https://example.com/image.jpg)
+---
 6. 인용(Quote)
 > 기호로 인용문을 작성합니다.
 markdown
@@ -70,9 +70,9 @@ markdown
 
 1. 첫 번째 항목
 2. 두 번째 항목
-
-[Google](https://www.google.com)
-
+---
+(https://www.google.com)
+---
 > 이 문장은 인용문입니다.
 
 `코드`
