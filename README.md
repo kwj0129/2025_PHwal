@@ -76,7 +76,7 @@ markdown
 코드 블록
 ###이미지 
 ---
-https://github.com/kwj0129/2025_PHwal/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-10-14%20152736.png?raw=true
+![Example Image](https://example.com/image.jpg)
 ---
 복사
 이렇게 마크다운 문법을 사용하여 간단하고 깔끔한 서식을 적용할 수 있습니다!
